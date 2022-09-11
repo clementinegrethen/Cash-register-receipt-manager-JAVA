@@ -1,0 +1,72 @@
+date:14/5/2021
+ 
+ 
+ 
+spar:  85 Av.Jean Rieux,31500 Toulouse
+ 
+ 
+gâteaux marbrés    savane   X2----------------------------5.1€
+biscuits chocolat    oréo   X2----------------------------9.6€
+liquide vaisselle    casino   X2--------------------------4.14€
+fromage à tartiner    tartare   X1------------------------3.41€
+boisson thé glacé pêche    fuzetea   X1-------------------2.05€
+soda orange     fanta   X1--------------------------------1.64€
+carottes    légume   X2-----------------------------------1.98€
+banane    fruit   X2--------------------------------------3.58€
+café capsules n°11    l'or   X1---------------------------4.14€
+brocoli    légume   X2------------------------------------6.3€
+fromage à tartiner    tartare   X1------------------------3.41€
+jambon    Herta   X2--------------------------------------5.48€
+soda coca-cola    coca-cola   X2--------------------------3.2€
+chocolat en poudre    nesquik   X2------------------------7.04€
+liquide vaisselle    casino   X2--------------------------4.14€
+café capsules n°11    l'or   X2---------------------------8.28€
+confiture de fraise    bonne maman   X2-------------------4.56€
+gâteaux marbrés    savane   X1----------------------------2.55€
+chou fleur    légume   X1---------------------------------2.3€
+fromage à tartiner    casino   X2-------------------------2.84€
+capsule lessive    skip   X1------------------------------11.49€
+lentilles vertes    sabarot   X2--------------------------5.3€
+riz parfumé    casino   X1--------------------------------1.75€
+gâteaux marbrés    savane   X1----------------------------2.55€
+kiwi    fruit   X2----------------------------------------1.6€
+biscuits chocolat    prince   X2--------------------------3.28€
+spaghetti    barilla   X1---------------------------------1.9€
+kinder cards    kinder   X1-------------------------------2.62€
+poireaux    légume   X2-----------------------------------2.98€
+flocons d'avoine bio    Bjorg   X2------------------------6.12€
+farfalle    barilla   X1----------------------------------1.22€
+endives    légume   X1------------------------------------2.1€
+liquide vaisselle    casino   X1--------------------------2.07€
+beurre doux     président   X2----------------------------5.36€
+granola    LU   X2----------------------------------------2.96€
+camembert    président   X1-------------------------------1.69€
+biscuits chocolat    oréo   X2----------------------------9.6€
+soda coca-cola    coca-cola   X2--------------------------3.2€
+beurre doux     président   X1----------------------------2.68€
+tomates    fruit   X2-------------------------------------9.6€
+liqueur get 27    GET27   X2------------------------------23.24€
+aiguillettes de poulet    maitre coq   X1-----------------5.5€
+kiwi    fruit   X1----------------------------------------0.8€
+spaghetti    barilla   X2---------------------------------3.8€
+sauce bolognaise    barilla   X2--------------------------5.0€
+aiguillettes de poulet    maitre coq   X1-----------------5.5€
+granola    LU   X1----------------------------------------1.48€
+chocolat en poudre    nesquik   X2------------------------7.04€
+poivrons    légume   X2-----------------------------------6.3€
+café capsules n°11    l'or   X2---------------------------8.28€
+confiture de fraise    bonne maman   X1-------------------2.28€
+sauce burger    casino   X2-------------------------------3.2€
+spaghetti    barilla   X1---------------------------------1.9€
+riz parfumé    casino   X1--------------------------------1.75€
+pâte à tartiner    nutella   X1---------------------------6.18€
+shampooing classic    head&shoulders   X1-----------------8.4€
+pesto    barilla   X2-------------------------------------5.72€
+chou     légume   X2--------------------------------------3.6€
+papier toilette    carrefour   X2-------------------------7.02€
+banane    fruit   X1--------------------------------------1.79€
+beurre doux     président   X1----------------------------2.68€
+ 
+TOTAL : --------277.27euros
+NUTRI SCORE MOYEN :C
+ECO SCORE MOYEN :D
